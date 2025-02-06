@@ -1,4 +1,4 @@
-const countries = [
+export const countries = [
   'Afghanistan',
   'Albania',
   'Algeria',
@@ -40,7 +40,7 @@ const countries = [
   'Congo (Brazzaville)',
   'Congo',
   'Costa Rica',
-  "Cote d'Ivoire",
+  `Cote d'Ivoire`,
   'Croatia',
   'Cuba',
   'Cyprus',
