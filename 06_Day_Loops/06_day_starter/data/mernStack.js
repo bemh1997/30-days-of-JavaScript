@@ -1,1 +1,6 @@
-export const mernStack = ["MongoDB", "Express", "React", "Node"];
+export const mernStack = [
+  "MongoDB",
+  "Express",
+  "React", 
+  "Node"
+];
